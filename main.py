@@ -114,7 +114,7 @@ class Experiment(window.Window):
         self.designfile = designfile
         
         # Results file - assigning filename
-        self.resultsfile =  input("your name: ")+'_results.csv'
+        self.resultsfile = f'result_{input("your name: ")}.csv'
         
         # opening the results file, writing the header
         self.rf = open(self.resultsfile, 'w')
