@@ -6,4 +6,6 @@
 3. am ende schließt sich das fenster automatisch & generiert eine CSV datei.
 4. entweder via MR im results ordner hinzufügen, oder mir schicken
 
+das experiment dauert ca. 10-20 minuten
+
 Danke <3
